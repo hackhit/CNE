@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## BIENVENIDO A MI PRIMER APORTE
 
-You can use the [editor on GitHub](https://github.com/hackhit/CNE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ * Clase encargada de gestionar diferentes paginas mediantes consumo sea por curl
+ * Hay que tener en cuenta que podemos ejercer el uso del html en caso que alla un cambio del resultado del
+ * html del CNE hay que modificar las clases porque cambian las posiciones
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
