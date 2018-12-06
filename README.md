@@ -1,4 +1,4 @@
-![](https://imgur.com/2s7ecYY)
+![](http://i.imgur.com/88FpuUJ.png)
 ## BIENVENIDO A MI PRIMER APORTE
 
  * Clase encargada de gestionar diferentes paginas mediantes consumo sea por curl
